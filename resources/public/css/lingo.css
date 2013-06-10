@@ -1,0 +1,25 @@
+.tile {
+    display:block;
+    width:150px;
+    height:150px;
+    box-shadow:inset 0px 0px 1px #FFFFCC;
+    font-family: 'Segoe UI Semilight', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+    background-color: #808080;
+}
+
+.correct {
+    display:block;
+    background-color: #4cff00
+}
+
+.inword {
+    display:block;
+    background-color: #ebff00
+}
+div {
+
+}
+h1 {
+    margin-left:20px;
+    font-size: 70px; 
+}
